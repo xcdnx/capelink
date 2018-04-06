@@ -22,7 +22,7 @@ if(a_to_vh==false)
 var x=Math.floor((Math.random()*6)+ 1);
 var xxx=null;
 if(x=="1"){xxx="10-best-forex-strategies.html"}
-if(x=="2"){xxx="mesothelioma-compensation.html"}
+if(x=="2"){xxx="mesothelioma-compensation-acquiring.html"}
 if(x=="3"){xxx="claiming-compensation-for-mesothelioma.html"}
 if(x=="4"){xxx="mesothelioma-benign-or-malignant.html"}
 if(x=="5"){xxx="understand-your-cancer-diagnosis.html"}
